@@ -1,2 +1,0 @@
-for generating commit messages for each of the files changed:
-  "generate the commit messages for each of the files changed"
